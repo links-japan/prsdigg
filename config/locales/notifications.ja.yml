@@ -1,5 +1,5 @@
-en:
-  notification: Notification
+ja:
+  notification: 通知
   notifications:
     article_published_notification:
       published: 記事が投稿されました
